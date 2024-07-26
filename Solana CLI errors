@@ -1,0 +1,6 @@
+solana-test-validator
+Ledger location: test-ledger
+Log: test-ledger/validator.log
+Error: failed to start validator: Failed to create ledger at test-ledger: io error: Error trying to generate snapshot archive: exit status: 2
+Error rectified skuller_eth@ROCKFELLER:~$ sudo apt install pbuilder-scripts
+---------------------
